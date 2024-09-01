@@ -3,9 +3,9 @@ This repository contains the data and source code for the MSc project "Developme
 
 ## Description
 This study evaluates the performance of large language models (LLMs) in summarising doctor-patient consultations and compares their quality against standard automatic and manual evaluation metrics. The study aims to develop an AI agent leveraging LLMs, specifically ChatGPT-4omini and Qwen2-72B-Instruct, to evaluate the performance of automatic summarisation in clinical contexts.
-The study overview:
+The study overview:  
 ![image](https://github.com/PotatooSoup/AIAgent/blob/main/image/workflow.png)
-The Agent pipline:
+The Agent pipline:  
 ![image](https://github.com/PotatooSoup/AIAgent/blob/main/image/agent.png)
 
 
