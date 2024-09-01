@@ -6,11 +6,11 @@ This study evaluates the performance of large language models (LLMs) in summaris
 
 
 The study overview:  
-<div align="center"><img width="65" height="75" src="https://github.com/PotatooSoup/AIAgent/blob/main/image/workflow.png"/></div>
+<div align="center"><img width="350" height="400" src="https://github.com/PotatooSoup/AIAgent/blob/main/image/workflow.png"/></div>
 
 
 The Agent pipline:  
-<div align="center"><img width="65" height="75" src="https://github.com/PotatooSoup/AIAgent/blob/main/image/agent.png"/></div>
+<div align="center"><img width="350" height="400" src="https://github.com/PotatooSoup/AIAgent/blob/main/image/agent.png"/></div>
 
 
 ## Requirements
